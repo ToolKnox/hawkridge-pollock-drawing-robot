@@ -6,7 +6,7 @@ Status: draft / review package. Not published for release.
 
 ## Links
 
-- Printables draft: pending
+- Printables draft: https://www.printables.com/model/1776630-pollock-drawing-robot
 - Original source/remix parent: https://github.com/seancuttlefish/pollock
 - Maker Portal slug: `pollock-drawing-robot`
 
