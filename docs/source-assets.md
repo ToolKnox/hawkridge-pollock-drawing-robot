@@ -1,15 +1,15 @@
 # Source assets
 
-Original source: https://github.com/seancuttlefish/pollock
+Original source/remix parent: https://github.com/seancuttlefish/pollock
 
-This repo tracks the Hawkridge documentation/refurbishment pass. Source code and PCB assets stay attributed to the original upstream project until a full import/refurbishment pass is approved.
+This page lists source-code, firmware, configuration, PCB, and electronics-design assets relevant to the Hawkridge refurbishment package.
 
-## Code/config candidates
+## Code, firmware, and configuration
 
 - `arduino/Basic_Robot_Commands.ino`
 - `arduino/Pollock.ino`
 - `microbt/pollock.py`
 
-## PCB/electronics manufacturing candidates
+## PCB and electronics manufacturing assets
 
-- None detected.
+- None listed for this package.
