@@ -1,64 +1,40 @@
 # Pollock Drawing Robot
 
 GPL-2.0 3D-printable autonomous drawing robot for BBC Micro:bit or Arduino-class microcontrollers; simple candidate for refreshed education kit.
+
+## Start here
+
+1. Read [`docs/install-and-control-notes.md`](docs/install-and-control-notes.md).
+2. Use [`docs/assembly-guide.md`](docs/assembly-guide.md) while preparing the printed parts.
+3. Use [`docs/usage-safety-troubleshooting.md`](docs/usage-safety-troubleshooting.md) for first-run checks and common failures.
+4. Download the Bill of Material as [`BOM.pdf`](BOM.pdf).
+
 ## Documentation download
 
-Download the complete build documentation/source package from this GitHub repository:
+This GitHub repo is the documentation/source download location for the Hawkridge remix package. Use **Code → Download ZIP** to download the README, build notes, BOM PDF, mirrored upstream source snapshot, and printable/CAD package references.
 
-- **Download ZIP:** use GitHub's **Code → Download ZIP** button.
-- **Start here:** `README.md` for the build/install guide.
-- **Documentation pointer:** `download-documentation/README.md`.
-- **Mirrored upstream source/assets:** `source/upstream/`.
+## Printable files
 
-## Installation / quick start
+Printables draft/model: https://www.printables.com/model/1776630-pollock-drawing-robot
 
-## Project
+The Printables Files section is the primary download point for print-ready STL/CAD files. This repo also keeps a source/documentation mirror for people who want the full build package.
 
-Pollock Drawing Robot
+## Remix / source lineage
 
-GPL-2.0 3D-printable autonomous drawing robot for BBC Micro:bit or Arduino-class microcontrollers; simple candidate for refreshed education kit.
+This package is prepared as a remix / variation, not a plain reupload.
 
-## Quick start
+Original source: https://github.com/seancuttlefish/pollock
+Original project/name: Pollock Drawing Robot
+Original license: GPL-2.0
 
-1. Download the printable files from Printables: https://www.printables.com/model/1776630-pollock-drawing-robot
-2. Download this GitHub repository as a ZIP, or clone it:
+Hawkridge remix note:
 
-   ```bash
-   git clone https://github.com/ToolKnox/hawkridge-pollock-drawing-robot.git
-   ```
+> Updated/refurbished for modern use: curated printable/CAD package, current build notes, mirrored source files, and a Hawkridge Bill of Material for modern sourcing.
 
-3. Use `source/upstream/` for the mirrored software, firmware, PCB, CAD-source, and upstream documentation.
-4. Use the Bill of Material PDF attached to the Printables Documentation section for parts planning.
-5. Read the project-specific notes below before powering electronics or uploading firmware.
+## Repository contents
 
-## Software / firmware setup
-
-- Open the `.ino` sketch from `source/upstream/` in Arduino IDE, install libraries listed in the upstream README/source, select the target board/port, then upload.
-- Desktop/control utilities are under `source/upstream/`; use the upstream README and project files there for dependencies and launch commands.
-
-## Main software/config files
-
-- `source/upstream/arduino/Basic_Robot_Commands.ino`
-- `source/upstream/arduino/Pollock.ino`
-- `source/upstream/microbt/pollock.py`
-
-## PCB / electronics design files
-
-- No PCB/manufacturing files detected.
-
-## Upstream documentation mirrored here
-
-- `source/upstream/README.md`
-
-## Original source
-
-https://github.com/seancuttlefish/pollock
-
-
-## Where to find things
-
-- Printables model and printable files: https://www.printables.com/model/1776630-pollock-drawing-robot
-- Bill of Material: `Pollock Drawing Robot Bill of Material.pdf` in the Printables Documentation section
-- Full mirrored upstream source/software/PCB files: `source/upstream/`
-- Source asset index: `docs/source-assets.md`
-- Standalone install/build guide: `docs/INSTALLATION.md`
+- `docs/` — user-facing install, assembly, usage, safety, and troubleshooting notes.
+- `download-documentation/` — short instructions for downloading this documentation bundle.
+- `source/upstream/` — curated upstream source mirror snapshot.
+- `printables-upload/` — staged print/CAD package used for the marketplace draft.
+- `BOM.pdf` — clickable Bill of Material PDF.
