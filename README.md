@@ -1,6 +1,14 @@
 # Pollock Drawing Robot
 
 GPL-2.0 3D-printable autonomous drawing robot for BBC Micro:bit or Arduino-class microcontrollers; simple candidate for refreshed education kit.
+## Documentation download
+
+Download the complete build documentation/source package from this GitHub repository:
+
+- **Download ZIP:** use GitHub's **Code → Download ZIP** button.
+- **Start here:** `README.md` for the build/install guide.
+- **Documentation pointer:** `download-documentation/README.md`.
+- **Mirrored upstream source/assets:** `source/upstream/`.
 
 ## Installation / quick start
 
@@ -54,4 +62,3 @@ https://github.com/seancuttlefish/pollock
 - Full mirrored upstream source/software/PCB files: `source/upstream/`
 - Source asset index: `docs/source-assets.md`
 - Standalone install/build guide: `docs/INSTALLATION.md`
-
