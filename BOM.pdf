@@ -4,7 +4,7 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [10 0 R 15 0 R 20 0 R 25 0 R 30 0 R] /Count 5 >>
+<< /Type /Pages /Kids [18 0 R] /Count 1 >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
@@ -16,7 +16,7 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >>
 endobj
 6 0 obj
-<< /Length 2147 >>
+<< /Length 7931 >>
 stream
 0.0400 0.0400 0.0400 rg
 39.00 447.28 763.89 118.00 re f
@@ -46,10 +46,10 @@ stream
 0.80 w 44.00 495.28 m 797.89 495.28 l S
 0.8500 0.3600 0.1400 rg
 BT /F1 8.00 Tf 117.00 534.28 Td (B I L L   O F   M A T E R I A L S) Tj ET
+0.0400 0.0400 0.0400 rg
+113.00 500.53 291.50 28.35 re f
 1.0000 1.0000 1.0000 rg
-BT /F1 27.00 Tf 117.00 507.28 Td (Pollock Drawing) Tj ET
-1.0000 1.0000 1.0000 rg
-BT /F1 27.00 Tf 117.00 479.28 Td (Robot) Tj ET
+BT /F1 27.00 Tf 117.00 507.28 Td (Pollock Drawing Robot) Tj ET
 0.8400 0.8600 0.8800 rg
 BT /F1 8.50 Tf 117.00 467.28 Td (Rev. 2026-07-09    4 items) Tj ET
 0.9500 0.9600 0.9800 rg
@@ -70,10 +70,182 @@ BT /F1 11.00 Tf 385.19 413.28 Td (Buy me a Beer) Tj ET
 548.26 405.28 254.63 26.00 re B
 0.0000 0.2700 0.6200 rg
 BT /F1 11.00 Tf 584.83 413.28 Td (Join my club for exclusive models) Tj ET
+0.9300 0.9400 0.9500 rg
+0.6200 0.6500 0.6900 RG
+0.50 w
+39.00 372.28 763.89 19.00 re B
+0.0800 0.0900 0.1100 rg
+BT /F1 8.50 Tf 46.00 378.28 Td () Tj ET
+0.0800 0.0900 0.1100 rg
+BT /F1 8.50 Tf 74.00 378.28 Td (Description) Tj ET
+0.6200 0.6500 0.6900 RG
+0.45 w 67.00 372.28 m 67.00 391.28 l S
+0.0800 0.0900 0.1100 rg
+BT /F1 8.50 Tf 402.62 378.28 Td (Qty) Tj ET
+0.6200 0.6500 0.6900 RG
+0.45 w 389.00 372.28 m 389.00 391.28 l S
+0.0800 0.0900 0.1100 rg
+BT /F1 8.50 Tf 462.75 378.28 Td (AliExpress) Tj ET
+0.6200 0.6500 0.6900 RG
+0.45 w 429.00 372.28 m 429.00 391.28 l S
+0.0800 0.0900 0.1100 rg
+BT /F1 8.50 Tf 553.62 378.28 Td (Amazon \(Geniuslink\)) Tj ET
+0.6200 0.6500 0.6900 RG
+0.45 w 539.00 372.28 m 539.00 391.28 l S
+0.0800 0.0900 0.1100 rg
+BT /F1 8.50 Tf 656.00 378.28 Td (Notes) Tj ET
+0.6200 0.6500 0.6900 RG
+0.45 w 649.00 372.28 m 649.00 391.28 l S
+0.0800 0.0900 0.1100 RG
+0.65 w 39.00 372.28 m 802.89 372.28 l S
+0.0800 0.1200 0.1800 rg
+39.00 354.28 763.89 18.00 re f
+1.0000 1.0000 1.0000 rg
+BT /F2 9.50 Tf 49.00 359.78 Td (ELECTRONICS) Tj ET
+0.7200 0.7600 0.8200 rg
+BT /F1 8.00 Tf 329.00 359.78 Td (1 item) Tj ET
+1.0000 1.0000 1.0000 rg
+0.6200 0.6500 0.6900 RG
+0.45 w
+39.00 332.28 763.89 22.00 re B
+0.6200 0.6500 0.6900 RG
+0.40 w 67.00 332.28 m 67.00 354.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 389.00 332.28 m 389.00 354.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 429.00 332.28 m 429.00 354.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 539.00 332.28 m 539.00 354.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 649.00 332.28 m 649.00 354.28 l S
+0.4800 0.5000 0.5300 rg
+BT /F1 8.50 Tf 48.75 340.28 Td (>>) Tj ET
+0.0800 0.0900 0.1100 rg
+BT /F1 9.00 Tf 74.00 340.28 Td (BBC Micro:bit or Arduino-compatible controller) Tj ET
+0.0800 0.0900 0.1100 rg
+BT /F2 9.00 Tf 406.75 340.28 Td (1) Tj ET
+0.0000 0.2700 0.6200 rg
+BT /F1 8.40 Tf 452.50 340.28 Td (AliExpress Link) Tj ET
+0.0000 0.2700 0.6200 RG
+0.45 w 452.50 338.78 m 515.50 338.78 l S
+0.0000 0.2700 0.6200 rg
+BT /F1 8.40 Tf 570.90 340.28 Td (Amazon Link) Tj ET
+0.0000 0.2700 0.6200 RG
+0.45 w 570.90 338.78 m 617.10 338.78 l S
+0.3000 0.3000 0.3000 rg
+BT /F3 8.00 Tf 656.00 341.28 Td (README gives controller options.) Tj ET
+0.0800 0.1200 0.1800 rg
+39.00 314.28 763.89 18.00 re f
+1.0000 1.0000 1.0000 rg
+BT /F2 9.50 Tf 49.00 319.78 Td (ACTUATORS) Tj ET
+0.7200 0.7600 0.8200 rg
+BT /F1 8.00 Tf 329.00 319.78 Td (1 item) Tj ET
+1.0000 1.0000 1.0000 rg
+0.6200 0.6500 0.6900 RG
+0.45 w
+39.00 281.28 763.89 33.00 re B
+0.6200 0.6500 0.6900 RG
+0.40 w 67.00 281.28 m 67.00 314.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 389.00 281.28 m 389.00 314.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 429.00 281.28 m 429.00 314.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 539.00 281.28 m 539.00 314.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 649.00 281.28 m 649.00 314.28 l S
+0.4800 0.5000 0.5300 rg
+BT /F1 8.50 Tf 48.75 294.78 Td (>>) Tj ET
+0.0800 0.0900 0.1100 rg
+BT /F1 9.00 Tf 74.00 300.28 Td (DC gear motors or continuous-rotation drive motors) Tj ET
+0.0800 0.0900 0.1100 rg
+BT /F2 9.00 Tf 404.50 294.78 Td (x2) Tj ET
+0.0000 0.2700 0.6200 rg
+BT /F1 8.40 Tf 452.50 294.78 Td (AliExpress Link) Tj ET
+0.0000 0.2700 0.6200 RG
+0.45 w 452.50 293.28 m 515.50 293.28 l S
+0.0000 0.2700 0.6200 rg
+BT /F1 8.40 Tf 570.90 294.78 Td (Amazon Link) Tj ET
+0.0000 0.2700 0.6200 RG
+0.45 w 570.90 293.28 m 617.10 293.28 l S
+0.3000 0.3000 0.3000 rg
+BT /F3 8.00 Tf 656.00 301.28 Td (Drawing robot drivetrain needs) Tj ET
+0.3000 0.3000 0.3000 rg
+BT /F3 8.00 Tf 656.00 291.28 Td (extraction/confirmation.) Tj ET
+0.0800 0.1200 0.1800 rg
+39.00 263.28 763.89 18.00 re f
+1.0000 1.0000 1.0000 rg
+BT /F2 9.50 Tf 49.00 268.78 Td (TOOLING) Tj ET
+0.7200 0.7600 0.8200 rg
+BT /F1 8.00 Tf 329.00 268.78 Td (1 item) Tj ET
+1.0000 1.0000 1.0000 rg
+0.6200 0.6500 0.6900 RG
+0.45 w
+39.00 241.28 763.89 22.00 re B
+0.6200 0.6500 0.6900 RG
+0.40 w 67.00 241.28 m 67.00 263.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 389.00 241.28 m 389.00 263.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 429.00 241.28 m 429.00 263.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 539.00 241.28 m 539.00 263.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 649.00 241.28 m 649.00 263.28 l S
+0.4800 0.5000 0.5300 rg
+BT /F1 8.50 Tf 48.75 249.28 Td (>>) Tj ET
+0.0800 0.0900 0.1100 rg
+BT /F1 9.00 Tf 74.00 249.28 Td (Pen/marker) Tj ET
+0.0800 0.0900 0.1100 rg
+BT /F2 9.00 Tf 406.75 249.28 Td (1) Tj ET
+0.0000 0.2700 0.6200 rg
+BT /F1 8.40 Tf 452.50 249.28 Td (AliExpress Link) Tj ET
+0.0000 0.2700 0.6200 RG
+0.45 w 452.50 247.78 m 515.50 247.78 l S
+0.0000 0.2700 0.6200 rg
+BT /F1 8.40 Tf 570.90 249.28 Td (Amazon Link) Tj ET
+0.0000 0.2700 0.6200 RG
+0.45 w 570.90 247.78 m 617.10 247.78 l S
+0.3000 0.3000 0.3000 rg
+BT /F3 8.00 Tf 656.00 250.28 Td (Pen holder STL present.) Tj ET
+0.0800 0.1200 0.1800 rg
+39.00 223.28 763.89 18.00 re f
+1.0000 1.0000 1.0000 rg
+BT /F2 9.50 Tf 49.00 228.78 Td (POWER) Tj ET
+0.7200 0.7600 0.8200 rg
+BT /F1 8.00 Tf 329.00 228.78 Td (1 item) Tj ET
+1.0000 1.0000 1.0000 rg
+0.6200 0.6500 0.6900 RG
+0.45 w
+39.00 201.28 763.89 22.00 re B
+0.6200 0.6500 0.6900 RG
+0.40 w 67.00 201.28 m 67.00 223.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 389.00 201.28 m 389.00 223.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 429.00 201.28 m 429.00 223.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 539.00 201.28 m 539.00 223.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 649.00 201.28 m 649.00 223.28 l S
+0.4800 0.5000 0.5300 rg
+BT /F1 8.50 Tf 48.75 209.28 Td (>>) Tj ET
+0.0800 0.0900 0.1100 rg
+BT /F1 9.00 Tf 74.00 209.28 Td (Battery holder/power pack) Tj ET
+0.0800 0.0900 0.1100 rg
+BT /F2 9.00 Tf 406.75 209.28 Td (1) Tj ET
+0.0000 0.2700 0.6200 rg
+BT /F1 8.40 Tf 452.50 209.28 Td (AliExpress Link) Tj ET
+0.0000 0.2700 0.6200 RG
+0.45 w 452.50 207.78 m 515.50 207.78 l S
+0.0000 0.2700 0.6200 rg
+BT /F1 8.40 Tf 570.90 209.28 Td (Amazon Link) Tj ET
+0.0000 0.2700 0.6200 RG
+0.45 w 570.90 207.78 m 617.10 207.78 l S
+0.3000 0.3000 0.3000 rg
+BT /F3 8.00 Tf 656.00 210.28 Td (Battery holder STL present.) Tj ET
 0.5500 0.5500 0.5500 rg
-BT /F1 8.00 Tf 784.89 18.00 Td (1/5) Tj ET
-0.5500 0.5500 0.5500 rg
-BT /F1 8.00 Tf 784.89 18.00 Td (1/5) Tj ET
+BT /F1 8.00 Tf 784.89 18.00 Td (1/1) Tj ET
 endstream
 endobj
 7 0 obj
@@ -83,460 +255,58 @@ endobj
 << /Type /Annot /Subtype /Link /Rect [293.63 405.28 548.26 431.28] /Border [0 0 0] /A << /S /URI /URI (https://www.paypal.com/paypalme/TomKnox3d) >> >>
 endobj
 9 0 obj
-<< /Type /Annot /Subtype /Link /Rect [548.26 405.28 802.89 431.28] /Border [0 0 0] /A << /S /URI /URI (https://www.printables.com/@TomKnox_1573) >> >>
+<< /Type /Annot /Subtype /Link /Rect [548.26 405.28 802.89 431.28] /Border [0 0 0] /A << /S /URI /URI (https://www.printables.com/@TomKnox/store) >> >>
 endobj
 10 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 841.89 595.28] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Annots [7 0 R 8 0 R 9 0 R] /Contents 6 0 R >>
+<< /Type /Annot /Subtype /Link /Rect [434.00 334.28 534.00 352.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/e/_c3q6QdDb?SearchText=BBC+Micro%3Abit+or+Arduino-compatible+controller) >> >>
 endobj
 11 0 obj
-<< /Length 2875 >>
-stream
-0.0400 0.0400 0.0400 rg
-0.0800 0.0900 0.1100 RG
-0.50 w
-39.00 524.28 52.00 34.00 re B
-1.0000 1.0000 1.0000 rg
-BT /F2 12.00 Tf 51.00 537.28 Td (BOM) Tj ET
-0.0800 0.0900 0.1100 RG
-0.45 w
-91.00 524.28 382.00 34.00 re S
-0.0800 0.0900 0.1100 RG
-0.45 w
-473.00 524.28 329.89 34.00 re S
-0.0800 0.0900 0.1100 rg
-BT /F1 9.50 Tf 99.00 545.28 Td (Product/Project: Pollock Drawing Robot) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 9.50 Tf 99.00 532.28 Td (Revision date: 2026-07-09) Tj ET
-0.0000 0.2700 0.6200 rg
-BT /F1 9.50 Tf 490.69 537.28 Td (https://www.printables.com/model/1776630-pollock-drawing-robot) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 490.69 535.78 m 785.19 535.78 l S
-0.0800 0.1200 0.1800 rg
-39.00 478.28 763.89 26.00 re f
-1.0000 1.0000 1.0000 rg
-BT /F2 11.00 Tf 49.00 487.28 Td (ELECTRONICS) Tj ET
-0.7200 0.7600 0.8200 rg
-BT /F1 8.50 Tf 259.00 487.28 Td (1 items) Tj ET
-0.9300 0.9400 0.9500 rg
-0.6200 0.6500 0.6900 RG
-0.50 w
-39.00 459.28 763.89 19.00 re B
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 46.00 465.28 Td () Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 74.00 465.28 Td (Description) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 67.00 459.28 m 67.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 402.62 465.28 Td (Qty) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 389.00 459.28 m 389.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 462.75 465.28 Td (AliExpress) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 429.00 459.28 m 429.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 553.62 465.28 Td (Amazon \(Geniuslink\)) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 539.00 459.28 m 539.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 656.00 465.28 Td (Notes) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 649.00 459.28 m 649.00 478.28 l S
-0.0800 0.0900 0.1100 RG
-0.65 w 39.00 459.28 m 802.89 459.28 l S
-1.0000 1.0000 1.0000 rg
-0.6200 0.6500 0.6900 RG
-0.45 w
-39.00 437.28 763.89 22.00 re B
-0.6200 0.6500 0.6900 RG
-0.40 w 67.00 437.28 m 67.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 389.00 437.28 m 389.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 429.00 437.28 m 429.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 539.00 437.28 m 539.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 649.00 437.28 m 649.00 459.28 l S
-0.4800 0.5000 0.5300 rg
-BT /F1 8.50 Tf 48.75 445.28 Td (>>) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 9.00 Tf 74.00 445.28 Td (BBC Micro:bit or Arduino-compatible controller) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F2 9.00 Tf 406.75 445.28 Td (1) Tj ET
-0.0000 0.2700 0.6200 rg
-BT /F1 8.40 Tf 452.50 445.28 Td (AliExpress Link) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 452.50 443.78 m 515.50 443.78 l S
-0.0000 0.2700 0.6200 rg
-BT /F1 8.40 Tf 570.90 445.28 Td (Amazon Link) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 570.90 443.78 m 617.10 443.78 l S
-0.3000 0.3000 0.3000 rg
-BT /F3 8.00 Tf 656.00 446.28 Td (README gives controller options.) Tj ET
-0.5500 0.5500 0.5500 rg
-BT /F1 8.00 Tf 784.89 18.00 Td (2/5) Tj ET
-endstream
+<< /Type /Annot /Subtype /Link /Rect [544.00 334.28 644.00 352.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/76yll) >> >>
 endobj
 12 0 obj
-<< /Type /Annot /Subtype /Link /Rect [473.00 524.28 802.89 558.28] /Border [0 0 0] /A << /S /URI /URI (https://www.printables.com/model/1776630-pollock-drawing-robot) >> >>
+<< /Type /Annot /Subtype /Link /Rect [434.00 283.28 534.00 312.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/e/_c40Kzcb3?SearchText=DC+gear+motors+or+continuous-rotation+drive+motors) >> >>
 endobj
 13 0 obj
-<< /Type /Annot /Subtype /Link /Rect [434.00 439.28 534.00 457.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/e/_c3q6QdDb?SearchText=BBC+Micro%3Abit+or+Arduino-compatible+controller) >> >>
+<< /Type /Annot /Subtype /Link /Rect [544.00 283.28 644.00 312.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/z2HZ) >> >>
 endobj
 14 0 obj
-<< /Type /Annot /Subtype /Link /Rect [544.00 439.28 644.00 457.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/76yll) >> >>
+<< /Type /Annot /Subtype /Link /Rect [434.00 243.28 534.00 261.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvsOopeiiZPhJrV0cwgOQDSkW93v7gVkNdlFeQuoIZcqEZIhXMmUzyCIjxfVXmxcZvrfZ9IZ19ZaGW5tKtn1fj1StPxeEojGGFouI8piyZvDZzAKZSl3jUIEgP0AQbQ422xSuVOw2cCLkiypdwmkesgfLbqG04HeY8nUgNezbZQPKeaV8GXRTELI6DNbPhvtl83ptkbU6SPe8JgtkpojUZ7X1BIDbY38x2feBxkAS4s3qoeUefOf09XKwvuN43scAuuDwvIZouIhyS3veivKOBXp7EGCNMud1GvQvNv8fCMvHfpAW98FYnlHOPkZ6zFI41CnGa2LnciIGj2oUW2DaLhnb2qyMDyDjneQLS9G7p3UdJaH7xAHlpGuHuhL0TNtMh94LwCqjdoQrAe7h3kFQE2DFuEzhgY2WL20Y0vDZOcRYrHe3kpvzwBzPQv3voLSVzMkoAkLT0Qg0iyURNeoNB935HPYDs95h0NHiWoS8HTvmuJ9Lk7sqSmhpy1E0zGCloLuJW7Vp9N87Scr3L1r49umnTbcdl2aUXEEaVNUXp7U7ROP1DtHAf0VYgrlLplV5fOLlN8VIhBAVSJ5Zr347loch6nEGG9qZtYoduPduRTmt7FbCsyTYXqdobtGzpvjWxlKUfGtQo9ZKQIgYDPp2hIVKDf2iiZkc0i6L6xyINa7QgknOOjGcfAGdWsEZCIUNhds0INX5b4qMms8vd13S33KCHhalMgi7TxihYRQf6soj) >> >>
 endobj
 15 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 841.89 595.28] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Annots [12 0 R 13 0 R 14 0 R] /Contents 11 0 R >>
+<< /Type /Annot /Subtype /Link /Rect [544.00 243.28 644.00 261.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/nzJvwVU) >> >>
 endobj
 16 0 obj
-<< /Length 2965 >>
-stream
-0.0400 0.0400 0.0400 rg
-0.0800 0.0900 0.1100 RG
-0.50 w
-39.00 524.28 52.00 34.00 re B
-1.0000 1.0000 1.0000 rg
-BT /F2 12.00 Tf 51.00 537.28 Td (BOM) Tj ET
-0.0800 0.0900 0.1100 RG
-0.45 w
-91.00 524.28 382.00 34.00 re S
-0.0800 0.0900 0.1100 RG
-0.45 w
-473.00 524.28 329.89 34.00 re S
-0.0800 0.0900 0.1100 rg
-BT /F1 9.50 Tf 99.00 545.28 Td (Product/Project: Pollock Drawing Robot) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 9.50 Tf 99.00 532.28 Td (Revision date: 2026-07-09) Tj ET
-0.0000 0.2700 0.6200 rg
-BT /F1 9.50 Tf 490.69 537.28 Td (https://www.printables.com/model/1776630-pollock-drawing-robot) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 490.69 535.78 m 785.19 535.78 l S
-0.0800 0.1200 0.1800 rg
-39.00 478.28 763.89 26.00 re f
-1.0000 1.0000 1.0000 rg
-BT /F2 11.00 Tf 49.00 487.28 Td (ACTUATORS) Tj ET
-0.7200 0.7600 0.8200 rg
-BT /F1 8.50 Tf 259.00 487.28 Td (1 items) Tj ET
-0.9300 0.9400 0.9500 rg
-0.6200 0.6500 0.6900 RG
-0.50 w
-39.00 459.28 763.89 19.00 re B
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 46.00 465.28 Td () Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 74.00 465.28 Td (Description) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 67.00 459.28 m 67.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 402.62 465.28 Td (Qty) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 389.00 459.28 m 389.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 462.75 465.28 Td (AliExpress) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 429.00 459.28 m 429.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 553.62 465.28 Td (Amazon \(Geniuslink\)) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 539.00 459.28 m 539.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 656.00 465.28 Td (Notes) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 649.00 459.28 m 649.00 478.28 l S
-0.0800 0.0900 0.1100 RG
-0.65 w 39.00 459.28 m 802.89 459.28 l S
-1.0000 1.0000 1.0000 rg
-0.6200 0.6500 0.6900 RG
-0.45 w
-39.00 426.28 763.89 33.00 re B
-0.6200 0.6500 0.6900 RG
-0.40 w 67.00 426.28 m 67.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 389.00 426.28 m 389.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 429.00 426.28 m 429.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 539.00 426.28 m 539.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 649.00 426.28 m 649.00 459.28 l S
-0.4800 0.5000 0.5300 rg
-BT /F1 8.50 Tf 48.75 439.78 Td (>>) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 9.00 Tf 74.00 445.28 Td (DC gear motors or continuous-rotation drive motors) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F2 9.00 Tf 404.50 439.78 Td (x2) Tj ET
-0.0000 0.2700 0.6200 rg
-BT /F1 8.40 Tf 452.50 439.78 Td (AliExpress Link) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 452.50 438.28 m 515.50 438.28 l S
-0.0000 0.2700 0.6200 rg
-BT /F1 8.40 Tf 570.90 439.78 Td (Amazon Link) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 570.90 438.28 m 617.10 438.28 l S
-0.3000 0.3000 0.3000 rg
-BT /F3 8.00 Tf 656.00 446.28 Td (Drawing robot drivetrain needs) Tj ET
-0.3000 0.3000 0.3000 rg
-BT /F3 8.00 Tf 656.00 436.28 Td (extraction/confirmation.) Tj ET
-0.5500 0.5500 0.5500 rg
-BT /F1 8.00 Tf 784.89 18.00 Td (3/5) Tj ET
-endstream
+<< /Type /Annot /Subtype /Link /Rect [434.00 203.28 534.00 221.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvsOopeiiZPhJrV0cwgOQDSkW93v7gVkNdlFeQuoIZcqEZIhXMmUzyCIjxfAt1PTZEmQIh5GoS4yl2okWAIiFag5Masb4kKinzx9GstX9LODRsdPvMe0cDjPs910NGqDicQ9F8NrjiJJpqZ6aO5bCrMErnAFV2MwJX4FFCJKVrc2nxkAnVPeblcIpVF4TM4XrR6Zbf3s7nBlcSZlNQe61O4pWSaaBNhOvskAYzJ6gkLDQs0C7HFUSpbAAnYjzCJLIkNxt8hJ6rQh9hCvFqsgWFDn88zb6tcQDG1jJHM8C4uUBKSPDOtWW2wqRjRwNHfh6dXTgvTzIO000blkAvPcUY9GbdpN3XSmm8i8NCqxDpZ0NuKZuW3p3yVF9F7ckd2q3VBquKFQHA1YYIzdbmk87mrnZWvDnIDCSy8DsI4Yz9hbESeflvyDjwzMG6jSIlwRc4LZ6wAsUiG8dM0PAcm6LVX3zvt6qqtupAt4HReYbaVOVOYtoL8uIkDwfez80Hjg4bVvTcxOkR8109kHZrqrc434FnPFKnTAHOs7IE98mi1BWGu5ZG69FOIQOamH9UdcTmFaNBgJeJkdEL4la0sjFjsjvwwU232Vk2MWM4Vv4xXfXWEOGwcAQ2J0AGe7Y2XhHtMvNbqhehFp0fmPxtuw8U2rY8Zq1YCuI8kfeHBmLVNE9Ruzh8itFVQm41aoIUIGRDGqnURqRFA1e1S2hMLCF83F5pIg3FltPaPXbq7zJqA2P) >> >>
 endobj
 17 0 obj
-<< /Type /Annot /Subtype /Link /Rect [473.00 524.28 802.89 558.28] /Border [0 0 0] /A << /S /URI /URI (https://www.printables.com/model/1776630-pollock-drawing-robot) >> >>
+<< /Type /Annot /Subtype /Link /Rect [544.00 203.28 644.00 221.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/y9HCBLl) >> >>
 endobj
 18 0 obj
-<< /Type /Annot /Subtype /Link /Rect [434.00 428.28 534.00 457.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/e/_c40Kzcb3?SearchText=DC+gear+motors+or+continuous-rotation+drive+motors) >> >>
-endobj
-19 0 obj
-<< /Type /Annot /Subtype /Link /Rect [544.00 428.28 644.00 457.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/z2HZ) >> >>
-endobj
-20 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 841.89 595.28] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Annots [17 0 R 18 0 R 19 0 R] /Contents 16 0 R >>
-endobj
-21 0 obj
-<< /Length 2826 >>
-stream
-0.0400 0.0400 0.0400 rg
-0.0800 0.0900 0.1100 RG
-0.50 w
-39.00 524.28 52.00 34.00 re B
-1.0000 1.0000 1.0000 rg
-BT /F2 12.00 Tf 51.00 537.28 Td (BOM) Tj ET
-0.0800 0.0900 0.1100 RG
-0.45 w
-91.00 524.28 382.00 34.00 re S
-0.0800 0.0900 0.1100 RG
-0.45 w
-473.00 524.28 329.89 34.00 re S
-0.0800 0.0900 0.1100 rg
-BT /F1 9.50 Tf 99.00 545.28 Td (Product/Project: Pollock Drawing Robot) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 9.50 Tf 99.00 532.28 Td (Revision date: 2026-07-09) Tj ET
-0.0000 0.2700 0.6200 rg
-BT /F1 9.50 Tf 490.69 537.28 Td (https://www.printables.com/model/1776630-pollock-drawing-robot) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 490.69 535.78 m 785.19 535.78 l S
-0.0800 0.1200 0.1800 rg
-39.00 478.28 763.89 26.00 re f
-1.0000 1.0000 1.0000 rg
-BT /F2 11.00 Tf 49.00 487.28 Td (TOOLING) Tj ET
-0.7200 0.7600 0.8200 rg
-BT /F1 8.50 Tf 259.00 487.28 Td (1 items) Tj ET
-0.9300 0.9400 0.9500 rg
-0.6200 0.6500 0.6900 RG
-0.50 w
-39.00 459.28 763.89 19.00 re B
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 46.00 465.28 Td () Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 74.00 465.28 Td (Description) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 67.00 459.28 m 67.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 402.62 465.28 Td (Qty) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 389.00 459.28 m 389.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 462.75 465.28 Td (AliExpress) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 429.00 459.28 m 429.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 553.62 465.28 Td (Amazon \(Geniuslink\)) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 539.00 459.28 m 539.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 656.00 465.28 Td (Notes) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 649.00 459.28 m 649.00 478.28 l S
-0.0800 0.0900 0.1100 RG
-0.65 w 39.00 459.28 m 802.89 459.28 l S
-1.0000 1.0000 1.0000 rg
-0.6200 0.6500 0.6900 RG
-0.45 w
-39.00 437.28 763.89 22.00 re B
-0.6200 0.6500 0.6900 RG
-0.40 w 67.00 437.28 m 67.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 389.00 437.28 m 389.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 429.00 437.28 m 429.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 539.00 437.28 m 539.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 649.00 437.28 m 649.00 459.28 l S
-0.4800 0.5000 0.5300 rg
-BT /F1 8.50 Tf 48.75 445.28 Td (>>) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 9.00 Tf 74.00 445.28 Td (Pen/marker) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F2 9.00 Tf 406.75 445.28 Td (1) Tj ET
-0.0000 0.2700 0.6200 rg
-BT /F1 8.40 Tf 452.50 445.28 Td (AliExpress Link) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 452.50 443.78 m 515.50 443.78 l S
-0.0000 0.2700 0.6200 rg
-BT /F1 8.40 Tf 570.90 445.28 Td (Amazon Link) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 570.90 443.78 m 617.10 443.78 l S
-0.3000 0.3000 0.3000 rg
-BT /F3 8.00 Tf 656.00 446.28 Td (Pen holder STL present.) Tj ET
-0.5500 0.5500 0.5500 rg
-BT /F1 8.00 Tf 784.89 18.00 Td (4/5) Tj ET
-endstream
-endobj
-22 0 obj
-<< /Type /Annot /Subtype /Link /Rect [473.00 524.28 802.89 558.28] /Border [0 0 0] /A << /S /URI /URI (https://www.printables.com/model/1776630-pollock-drawing-robot) >> >>
-endobj
-23 0 obj
-<< /Type /Annot /Subtype /Link /Rect [434.00 439.28 534.00 457.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvsOopeiiZPhJrV0cwgOQDSkW93v7gVkNdlFeQuoIZcqEZIhXMmUzyCIjxfVXmxcZvrfZ9IZ19ZaGW5tKtn1fj1StPxeEojGGFouI8piyZvDZzAKZSl3jUIEgP0AQbQ422xSuVOw2cCLkiypdwmkesgfLbqG04HeY8nUgNezbZQPKeaV8GXRTELI6DNbPhvtl83ptkbU6SPe8JgtkpojUZ7X1BIDbY38x2feBxkAS4s3qoeUefOf09XKwvuN43scAuuDwvIZouIhyS3veivKOBXp7EGCNMud1GvQvNv8fCMvHfpAW98FYnlHOPkZ6zFI41CnGa2LnciIGj2oUW2DaLhnb2qyMDyDjneQLS9G7p3UdJaH7xAHlpGuHuhL0TNtMh94LwCqjdoQrAe7h3kFQE2DFuEzhgY2WL20Y0vDZOcRYrHe3kpvzwBzPQv3voLSVzMkoAkLT0Qg0iyURNeoNB935HPYDs95h0NHiWoS8HTvmuJ9Lk7sqSmhpy1E0zGCloLuJW7Vp9N87Scr3L1r49umnTbcdl2aUXEEaVNUXp7U7ROP1DtHAf0VYgrlLplV5fOLlN8VIhBAVSJ5Zr347loch6nEGG9qZtYoduPduRTmt7FbCsyTYXqdobtGzpvjWxlKUfGtQo9ZKQIgYDPp2hIVKDf2iiZkc0i6L6xyINa7QgknOOjGcfAGdWsEZCIUNhds0INX5b4qMms8vd13S33KCHhalMgi7TxihYRQf6soj) >> >>
-endobj
-24 0 obj
-<< /Type /Annot /Subtype /Link /Rect [544.00 439.28 644.00 457.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/nzJvwVU) >> >>
-endobj
-25 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 841.89 595.28] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Annots [22 0 R 23 0 R 24 0 R] /Contents 21 0 R >>
-endobj
-26 0 obj
-<< /Length 2843 >>
-stream
-0.0400 0.0400 0.0400 rg
-0.0800 0.0900 0.1100 RG
-0.50 w
-39.00 524.28 52.00 34.00 re B
-1.0000 1.0000 1.0000 rg
-BT /F2 12.00 Tf 51.00 537.28 Td (BOM) Tj ET
-0.0800 0.0900 0.1100 RG
-0.45 w
-91.00 524.28 382.00 34.00 re S
-0.0800 0.0900 0.1100 RG
-0.45 w
-473.00 524.28 329.89 34.00 re S
-0.0800 0.0900 0.1100 rg
-BT /F1 9.50 Tf 99.00 545.28 Td (Product/Project: Pollock Drawing Robot) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 9.50 Tf 99.00 532.28 Td (Revision date: 2026-07-09) Tj ET
-0.0000 0.2700 0.6200 rg
-BT /F1 9.50 Tf 490.69 537.28 Td (https://www.printables.com/model/1776630-pollock-drawing-robot) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 490.69 535.78 m 785.19 535.78 l S
-0.0800 0.1200 0.1800 rg
-39.00 478.28 763.89 26.00 re f
-1.0000 1.0000 1.0000 rg
-BT /F2 11.00 Tf 49.00 487.28 Td (POWER) Tj ET
-0.7200 0.7600 0.8200 rg
-BT /F1 8.50 Tf 259.00 487.28 Td (1 items) Tj ET
-0.9300 0.9400 0.9500 rg
-0.6200 0.6500 0.6900 RG
-0.50 w
-39.00 459.28 763.89 19.00 re B
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 46.00 465.28 Td () Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 74.00 465.28 Td (Description) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 67.00 459.28 m 67.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 402.62 465.28 Td (Qty) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 389.00 459.28 m 389.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 462.75 465.28 Td (AliExpress) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 429.00 459.28 m 429.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 553.62 465.28 Td (Amazon \(Geniuslink\)) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 539.00 459.28 m 539.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 656.00 465.28 Td (Notes) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 649.00 459.28 m 649.00 478.28 l S
-0.0800 0.0900 0.1100 RG
-0.65 w 39.00 459.28 m 802.89 459.28 l S
-1.0000 1.0000 1.0000 rg
-0.6200 0.6500 0.6900 RG
-0.45 w
-39.00 437.28 763.89 22.00 re B
-0.6200 0.6500 0.6900 RG
-0.40 w 67.00 437.28 m 67.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 389.00 437.28 m 389.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 429.00 437.28 m 429.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 539.00 437.28 m 539.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 649.00 437.28 m 649.00 459.28 l S
-0.4800 0.5000 0.5300 rg
-BT /F1 8.50 Tf 48.75 445.28 Td (>>) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 9.00 Tf 74.00 445.28 Td (Battery holder/power pack) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F2 9.00 Tf 406.75 445.28 Td (1) Tj ET
-0.0000 0.2700 0.6200 rg
-BT /F1 8.40 Tf 452.50 445.28 Td (AliExpress Link) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 452.50 443.78 m 515.50 443.78 l S
-0.0000 0.2700 0.6200 rg
-BT /F1 8.40 Tf 570.90 445.28 Td (Amazon Link) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 570.90 443.78 m 617.10 443.78 l S
-0.3000 0.3000 0.3000 rg
-BT /F3 8.00 Tf 656.00 446.28 Td (Battery holder STL present.) Tj ET
-0.5500 0.5500 0.5500 rg
-BT /F1 8.00 Tf 784.89 18.00 Td (5/5) Tj ET
-endstream
-endobj
-27 0 obj
-<< /Type /Annot /Subtype /Link /Rect [473.00 524.28 802.89 558.28] /Border [0 0 0] /A << /S /URI /URI (https://www.printables.com/model/1776630-pollock-drawing-robot) >> >>
-endobj
-28 0 obj
-<< /Type /Annot /Subtype /Link /Rect [434.00 439.28 534.00 457.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvsOopeiiZPhJrV0cwgOQDSkW93v7gVkNdlFeQuoIZcqEZIhXMmUzyCIjxfAt1PTZEmQIh5GoS4yl2okWAIiFag5Masb4kKinzx9GstX9LODRsdPvMe0cDjPs910NGqDicQ9F8NrjiJJpqZ6aO5bCrMErnAFV2MwJX4FFCJKVrc2nxkAnVPeblcIpVF4TM4XrR6Zbf3s7nBlcSZlNQe61O4pWSaaBNhOvskAYzJ6gkLDQs0C7HFUSpbAAnYjzCJLIkNxt8hJ6rQh9hCvFqsgWFDn88zb6tcQDG1jJHM8C4uUBKSPDOtWW2wqRjRwNHfh6dXTgvTzIO000blkAvPcUY9GbdpN3XSmm8i8NCqxDpZ0NuKZuW3p3yVF9F7ckd2q3VBquKFQHA1YYIzdbmk87mrnZWvDnIDCSy8DsI4Yz9hbESeflvyDjwzMG6jSIlwRc4LZ6wAsUiG8dM0PAcm6LVX3zvt6qqtupAt4HReYbaVOVOYtoL8uIkDwfez80Hjg4bVvTcxOkR8109kHZrqrc434FnPFKnTAHOs7IE98mi1BWGu5ZG69FOIQOamH9UdcTmFaNBgJeJkdEL4la0sjFjsjvwwU232Vk2MWM4Vv4xXfXWEOGwcAQ2J0AGe7Y2XhHtMvNbqhehFp0fmPxtuw8U2rY8Zq1YCuI8kfeHBmLVNE9Ruzh8itFVQm41aoIUIGRDGqnURqRFA1e1S2hMLCF83F5pIg3FltPaPXbq7zJqA2P) >> >>
-endobj
-29 0 obj
-<< /Type /Annot /Subtype /Link /Rect [544.00 439.28 644.00 457.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/y9HCBLl) >> >>
-endobj
-30 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 841.89 595.28] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Annots [27 0 R 28 0 R 29 0 R] /Contents 26 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 841.89 595.28] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Annots [7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R] /Contents 6 0 R >>
 endobj
 xref
-0 31
+0 19
 0000000000 65535 f 
 0000000015 00000 n 
 0000000064 00000 n 
-0000000150 00000 n 
-0000000220 00000 n 
-0000000295 00000 n 
-0000000373 00000 n 
-0000002572 00000 n 
-0000002759 00000 n 
-0000002926 00000 n 
-0000003092 00000 n 
-0000003273 00000 n 
-0000006201 00000 n 
-0000006390 00000 n 
-0000006619 00000 n 
-0000006767 00000 n 
-0000006952 00000 n 
-0000009970 00000 n 
-0000010159 00000 n 
-0000010390 00000 n 
-0000010537 00000 n 
-0000010722 00000 n 
-0000013601 00000 n 
-0000013790 00000 n 
-0000014955 00000 n 
-0000015105 00000 n 
-0000015290 00000 n 
-0000018186 00000 n 
-0000018375 00000 n 
-0000019540 00000 n 
-0000019690 00000 n 
+0000000122 00000 n 
+0000000192 00000 n 
+0000000267 00000 n 
+0000000345 00000 n 
+0000008328 00000 n 
+0000008515 00000 n 
+0000008682 00000 n 
+0000008849 00000 n 
+0000009078 00000 n 
+0000009226 00000 n 
+0000009457 00000 n 
+0000009604 00000 n 
+0000010769 00000 n 
+0000010919 00000 n 
+0000012084 00000 n 
+0000012234 00000 n 
 trailer
-<< /Size 31 /Root 1 0 R >>
+<< /Size 19 /Root 1 0 R >>
 startxref
-19875
+12471
 %%EOF
